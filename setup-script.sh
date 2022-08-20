@@ -17,6 +17,7 @@ probeName="tcpProbe"
 vmSize="Standard_B1s"
 storageType="Standard_LRS"
 
+
 # Create resource group. 
 # This command will not work for the Cloud Lab users. 
 # Cloud Lab users can comment this command and 
